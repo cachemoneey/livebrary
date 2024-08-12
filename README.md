@@ -7,9 +7,7 @@ This is a web application that allows users to track, monitor and store records 
 ### Demo
 
 
-<img width="1470" alt="Screenshot 2024-08-09 at 16 42 14" src="https://github.com/user-attachments/assets/a66f2e02-5467-40ff-800a-ff644ca50a8d">
-<img width="1470" alt="Screenshot 2024-08-09 at 16 42 27" src="https://github.com/user-attachments/assets/ff07f08f-0d74-4cb8-992e-0c94e2fface4">
-<img width="1470" alt="Screenshot 2024-08-09 at 16 42 30" src="https://github.com/user-attachments/assets/5a843b76-4005-4e41-b1b9-1fbb534f655f">
+
 <img width="1470" alt="Screenshot 2024-08-09 at 16 43 14" src="https://github.com/user-attachments/assets/1ddbb176-5313-4e65-8ac7-f20d868111c4">
 <img width="1470" alt="Screenshot 2024-08-09 at 16 43 34" src="https://github.com/user-attachments/assets/7d6d1eb6-8fd1-45b0-8313-13a659013e78">
 <img width="1470" alt="Screenshot 2024-08-09 at 16 43 41" src="https://github.com/user-attachments/assets/723d9453-609b-4471-b328-9afc0d0c2737">
@@ -19,7 +17,9 @@ This is a web application that allows users to track, monitor and store records 
 <img width="1470" alt="Screenshot 2024-08-09 at 16 44 57" src="https://github.com/user-attachments/assets/8fdee683-247a-4a67-b1d2-305f2ec5f7b9">
 Screenshot 2024-08-09 at 16.45.24
 <img width="1470" alt="Screenshot 2024-08-09 at 16 45 36" src="https://github.com/user-attachments/assets/d8fb90f2-9a18-4f6c-8124-c622a47c6307">
-
+<img width="1470" alt="Screenshot 2024-08-09 at 16 42 14" src="https://github.com/user-attachments/assets/a66f2e02-5467-40ff-800a-ff644ca50a8d">
+<img width="1470" alt="Screenshot 2024-08-09 at 16 42 27" src="https://github.com/user-attachments/assets/ff07f08f-0d74-4cb8-992e-0c94e2fface4">
+<img width="1470" alt="Screenshot 2024-08-09 at 16 42 30" src="https://github.com/user-attachments/assets/5a843b76-4005-4e41-b1b9-1fbb534f655f">
 
 
 
