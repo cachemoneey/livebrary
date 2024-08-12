@@ -8,7 +8,7 @@ This is a web application that allows users to track, monitor and store records 
 
 
 
-<img width="1470" alt="Screenshot 2024-08-09 at 16 43 14" src="https://github.com/user-attachments/assets/1ddbb176-5313-4e65-8ac7-f20d868111c4">
+
 <img width="1470" alt="Screenshot 2024-08-09 at 16 43 34" src="https://github.com/user-attachments/assets/7d6d1eb6-8fd1-45b0-8313-13a659013e78">
 <img width="1470" alt="Screenshot 2024-08-09 at 16 43 41" src="https://github.com/user-attachments/assets/723d9453-609b-4471-b328-9afc0d0c2737">
 <img width="1470" alt="Screenshot 2024-08-09 at 16 44 06" src="https://github.com/user-attachments/assets/eb4886d9-1c2d-4a50-aa20-4fd8f8b1bbf1">
